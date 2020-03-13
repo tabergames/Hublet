@@ -1,0 +1,5 @@
+name: TaberPortalManager
+version: 2.0
+author: samtaber
+main: taber.core.TaberPortalManager.TaberPortalManager
+depend: [WorldGuard, FastAsyncWorldEdit, PermissionsEx]
